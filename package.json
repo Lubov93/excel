@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Lubov93/excel/issues"
   },
-  "homepage": "https://github.com/Lubov93/excel#readme"
+  "homepage": "https://github.com/Lubov93/excel#readme",
+  "private": true,
 }
